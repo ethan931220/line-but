@@ -51,7 +51,7 @@ def handle_message(event):
         sticker_message)
     return
 
-  if msg in ['hi','Hi':]:
+  if msg in ['hi','Hi']:
         r = '嗨'
   elif msg = '你吃飯了嗎':
         r = '還沒'
